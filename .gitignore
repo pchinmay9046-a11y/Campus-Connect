@@ -1,3 +1,5 @@
-Backend/backend/.env
-Frontend/.env.example
-Frontend/.env
+.env
+.env.*
+!.env.example
+**/__pycache__/
+*.py[cod]
